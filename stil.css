@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS document */
+p {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 700px;
+	background-color: plum;
+	padding: 25px;
+}
+h1,h2,h3 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: rebeccapurple;
+}
+.pozadina{
+	background-image: url("Tumblr.png")
+	
+}
+a:hover{
+	background-color: plum;
+	
+}
+.drugapozadina {
+	background-color: seashell;
+}
