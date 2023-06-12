@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS document */
+ul {
+  list-style: none;
+}
+
+li {
+  display: inline-block;
+  margin-right: 10px; /* add spacing between items */
+  font-family: Helvetica, Arial, "sans-serif";
+}
+h1{
+	font-family: PetraKusen, Playbill, PoorRichard;
+	color: rosybrown;
+}
+h2{
+	font-family: Helvetica, Arial, "sans-serif";
+}
+p {
+	font-family: Helvetica, Arial, "sans-serif";
+	font-size: 16px;
+	background-color: rosybrown;
+	padding: 20px;
+}
+.pozadina{
+	 background-image: url("pozadina 1.jpeg");
+}
+.drugapozadina{
+	background-color: linen;
+}
+a:link{
+	color: tan;
+}
+a:visited{
+	color: sandybrown;
+}
+a:hover{
+	color: wheat;
+}
